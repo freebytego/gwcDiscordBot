@@ -1,0 +1,8 @@
+{
+    "prefix": "$",
+    "token": "YOUR DISCORD TOKEN GOES HERE",
+    "timeout": 300,
+    "channelID": 0,
+    "leaderboardLength": 15,
+    "downloadLink": "https://kvbamusic.itch.io/game-with-car#download"   
+}
